@@ -14,7 +14,7 @@ export const content = [
   },
   {
     index: 2,
-    title: "Personalized Recommendations",
+    title: "Recommendations",
     content:
       " Using advanced algorithms, CleverBook offers personalized reading suggestions based on user preferences, reading history, and ratings. This feature helps users discover new books and articles that match their tastes, ensuring a customized and enjoyable reading experience.",
     Image: Image2,
