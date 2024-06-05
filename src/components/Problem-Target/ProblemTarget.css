@@ -1,0 +1,5 @@
+.pic{
+    fill: rgb(198,173,142);
+    display: flex;
+    flex-direction: column;
+}
